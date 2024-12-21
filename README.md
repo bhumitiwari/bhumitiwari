@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Bhumika Tiwari
+# Hi there 👋 I'm Bhumika Tiwari
 # 💫 About Me:
 🔭 I’m a Full Stack Web Developer<br>👯 I’m looking to collaborate on Web Development Projects<br>🌱 I’m currently learning Three JS<br>
 
